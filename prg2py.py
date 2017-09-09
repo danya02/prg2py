@@ -28,5 +28,6 @@ output('')
 output('import turtle')
 output('from math import *')
 output('')
+output('turtle.mode(mode="logo")')
 
 args.output.flush()
